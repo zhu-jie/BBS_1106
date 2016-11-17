@@ -51,7 +51,7 @@ MIDDLEWARE_CLASSES = [
     'django.middleware.clickjacking.XFrameOptionsMiddleware',
 ]
 
-ROOT_URLCONF = 'BBS_1106.urls'
+ROOT_URLCONF = 'bbs.urls'
 
 TEMPLATES = [
     {
